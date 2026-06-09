@@ -55,9 +55,8 @@ It includes fields such as:
 - Skills frequency by job type  
 
 ### 3. Job Market Overview
-- Number of job postings by role  
-- Top hiring companies (if available)  
-
+- Number of job postings by role
+- 
 ### 4. Geographic Insights
 - Jobs distribution by country / region  
 - Remote vs on-site trends  
@@ -65,12 +64,6 @@ It includes fields such as:
 ---
 
 ## 📷 Dashboard Preview
-
-Add screenshots here:
-
-- Overview page  
-- Salary analysis page  
-- Skills analysis page  
 
 ---
 
